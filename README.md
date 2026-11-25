@@ -1,5 +1,5 @@
 # arduino-weekend-projects
-Just-for-fun weekend hardware experiments: going from a blinking LED to a car reverse sensor
+Just-for-fun hardware experiments: going from a blinking LED to a car reverse sensor
 # Arduino Traffic Light & Reverse Sensor Experiments
 
 A small collection of beginner Arduino sketches built just for fun, progressing from a basic LED test to a reverse-parking style warning system.
