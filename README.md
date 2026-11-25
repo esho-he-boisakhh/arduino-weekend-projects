@@ -6,13 +6,13 @@ A small collection of beginner Arduino sketches built just for fun, progressing 
 
 ## Projects Included
 
-1. **01_Blink_Test** 
+1. **blink** 
    * Basic hardware check to test LED wiring and board communication.
-2. **02_Traffic_Light**
+2. **traffic**
    * Simulates a standard Red, Yellow, and Green traffic light sequence using timed delays.
-3. **03_Traffic_Light_With_Beep**
+3. **traffic_with_beep**
    * Adds an active/passive buzzer to provide audio cues alongside the light changes.
-4. **04_Reverse_Sensor_System**
+4. **Sensor**
    * Combines the LEDs, buzzer, and an ultrasonic distance sensor to mimic a car's reversing alert system—changing lights and beeping faster as objects get closer.
 
 ## Hardware Used
